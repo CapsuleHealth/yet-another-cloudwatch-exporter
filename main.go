@@ -50,6 +50,7 @@ var (
 		"ngw",
 		"nlb",
 		"rds",
+		"rds-aurora",
 		"redshift",
 		"r53r",
 		"s3",
